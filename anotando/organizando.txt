@@ -1,0 +1,30 @@
+PAGINA INDEX.HTML
+
+1> começamos com um <h1> com o titulo programação.
+
+2> uma tag <p> dizendo o que veremos a seguir.
+
+3> uma lista de assuntos usando o <ul> <li></li> </ul>
+
+4> 3 seções com a mesma classe linguagens. onde tem uma prévia dos artigos do blog e uma Imagem. e um link para a outra pagina.
+
+5> depoois da seção criei uma outra div para colocar um <h3> e uma <ol>.
+
+6> fiz uma nova seção que contem a opiniao de outras pessoas.
+
+7> criado uma div c a classe contato. onde tem o formulario para entrar em contato.
+
+8> criado um botao com o id submit. onde ao clicar em enviar ele fara a tentativa de enviar o formulario.
+
+9> criado um rodapé.  com os links do instagram e o youtube.
+
+OUTRAS paginas
+
+foram criadas as paginas, javas.html,php.html,Python.html.. nessas paginas temos uma imagens, e um artigo usando um site externo chamado Lorem ipsum .
+
+e todas temos um <a> com o objetivo de voltar para o index.html.
+
+
+OBS: TOMEI A LIBERDADE DE COLOCAR AS FOTOS DE PERFIL AO CITAR "PESSOAS".
+
+atenciosamente:Fran Hollweg
