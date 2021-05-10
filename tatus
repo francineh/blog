@@ -1,0 +1,42 @@
+[33mcommit 8fecd86654da15f95c3a8ae021f5300d9c456501[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: d4b8894 e8450b2
+Author: Francine Hollweg <hollwegfrancine@gmail.com>
+Date:   Mon May 10 14:54:19 2021 -0300
+
+    Merge branch 'master' of github.com:francineh/blog
+
+[33mcommit d4b8894508f20bfff03271046a254e8faf4ff978[m
+Author: Francine Hollweg <hollwegfrancine@gmail.com>
+Date:   Mon May 10 14:54:06 2021 -0300
+
+    corrigindo os erros
+
+[33mcommit e8450b2ef8054af203ca849888e377f031c4c752[m
+Author: Francine Hollweg <82109123+francineh@users.noreply.github.com>
+Date:   Mon May 10 13:55:20 2021 -0300
+
+    Set theme jekyll-theme-minimal
+
+[33mcommit 5842b723553a3379a1f6a85438e4615a80ea8f41[m
+Author: Francine Hollweg <82109123+francineh@users.noreply.github.com>
+Date:   Mon May 10 13:32:44 2021 -0300
+
+    Set theme jekyll-theme-slate
+
+[33mcommit f16c439fe8fef7a71c195576865bb617b944e7ad[m
+Author: Francine Hollweg <82109123+francineh@users.noreply.github.com>
+Date:   Mon May 10 13:31:58 2021 -0300
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 1b822c6a376c99b014d03022fd30dbc8283db38f[m
+Author: Francine Hollweg <82109123+francineh@users.noreply.github.com>
+Date:   Mon May 10 13:31:19 2021 -0300
+
+    Set theme jekyll-theme-merlot
+
+[33mcommit ab2a300c3257328b44b67670b77573fb05f9f7f9[m
+Author: Francine Hollweg <hollwegfrancine@gmail.com>
+Date:   Mon May 10 13:26:08 2021 -0300
+
+    exercicio do blog finalizado
